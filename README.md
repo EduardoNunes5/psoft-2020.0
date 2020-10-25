@@ -1,4 +1,4 @@
-# Atividaddes da disciplinaProjeto de Software - UFCG  
+# Atividades da disciplina Projeto de Software - UFCG  
 
 ### Refatoramento
 
