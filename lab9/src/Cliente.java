@@ -1,5 +1,9 @@
-public class Main {
+public class Cliente {
     public static void main(String[] args) {
-        System.out.println("oulaa");
+        FabricaBolo fBoloChocolate = new BoloDeChocolate(new CoberturaCaramelo());
+        fBoloChocolate.preparaBolo();
+
+        FabricaBolo fBoloBaunilha = new BoloDeBaunilha(new CoberturaMorango());
+        fBoloBaunilha.preparaBolo();
     }
 }

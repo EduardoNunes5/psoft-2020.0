@@ -1,2 +1,4 @@
-public class FabricaCobertura {
+public interface FabricaCobertura {
+
+    void fazerCobertura();
 }
