@@ -4,8 +4,6 @@ public class BoloDeChocolate extends FabricaBolo{
         super(fabricaCobertura);
     }
 
-    public BoloDeChocolate(){}
-
     @Override
     protected void fazerMassa() {
         System.out.println("Faz massa de chocolate");

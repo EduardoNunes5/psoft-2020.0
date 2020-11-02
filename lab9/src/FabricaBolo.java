@@ -1,14 +1,11 @@
 public abstract class FabricaBolo {
-
-
     private FabricaCobertura fabricaCobertura;
 
     public FabricaBolo(FabricaCobertura fabricaCobertura) {
         this.fabricaCobertura = fabricaCobertura;
     }
 
-    public FabricaBolo(){
-    }
+    public FabricaBolo(){}
 
     public final void preparaBolo(){
         fazerMassa();
@@ -25,7 +22,6 @@ public abstract class FabricaBolo {
     private void decorarBolo(){
         System.out.println("Decora bolo");
     }
-
 
     private  void levarAoForno(){
         System.out.println("Leva ao forno");
