@@ -1,11 +1,10 @@
 public class BoloDeBaunilha extends FabricaBolo{
+
     public BoloDeBaunilha(FabricaCobertura fabricaCobertura) {
         super(fabricaCobertura);
     }
 
-    public BoloDeBaunilha() {
-
-    }
+    public BoloDeBaunilha() {}
 
     @Override
     protected void fazerMassa() {
