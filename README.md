@@ -11,4 +11,8 @@
 
 ### Design patterns (Template Method e Bridge)
 
-[Lab 9 docs](https://docs.google.com/document/d/1OsgUknQWxZYUGnjHq08-DHtscsS9_dZS2lZxKXk0NAk/edit?usp=sharing)
+[Lab 9 docs](https://docs.google.com/document/d/1OsgUknQWxZYUGnjHq08-DHtscsS9_dZS2lZxKXk0NAk/edit?usp=sharing)  
+
+### Design Patterns (State)
+
+[Lab 10 docs](https://docs.google.com/document/d/1piBHliTC19LvAP0LblEpG6WIMdhXMy126scl6VmOTbc/edit?usp=sharing)
